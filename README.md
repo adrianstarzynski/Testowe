@@ -1,5 +1,2 @@
 # Tetowe
-Testowe repozytorium publiczne
-test 123
-....
-test 123
+Testowe repozytorium publiczne - nowy przypadek testowy
